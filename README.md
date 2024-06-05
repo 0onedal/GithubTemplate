@@ -73,7 +73,7 @@ Feel free to explore my repositories to see the projects I'm working on and my c
 
 ### 🛠️ Tools & Technologies
 
-- **Penetration Testing Tools:** Metasploit, Nmap, Burp Suite
+- **Penetration Testing Tools:** `Metasploit`, `Nmap`, `Burp` `Suite
 - **Programming Languages:** C++, Python
 - **Operating Systems:** Linux, Windows
 - **Version Control:** Git
