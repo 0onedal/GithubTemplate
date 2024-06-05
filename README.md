@@ -37,7 +37,7 @@ Passionate about cybersecurity and eager to make the digital world a safer place
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 
 ---
-<img src="[https://your-cybersecurity-image-link.png](https://images.hdqwalls.com/download/bio-hackers-and-the-matrix-4k-6p-1600x900.jpg)" width="50%" alt="Cybersecurity Image">
+<img src="https://your-cybersecurity-image-link.png](https://images.hdqwalls.com/download/bio-hackers-and-the-matrix-4k-6p-1600x900.jpg" width="50%" alt="Cybersecurity Image">
 
 ### 🚀 Mission
 My mission is to safeguard digital information and build robust defenses against cyber threats. I'm committed to continuous learning and staying ahead in the ever-evolving field of cybersecurity.
