@@ -4,6 +4,18 @@
 
 ---
 
+```cpp
+// هذا مثال على شيفرة بلغة C++
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello, World!" << endl;
+    return 0;
+}
+
+---
+
 ## 🕵️‍♂️ About Me
 
 I'm passionate about cybersecurity and making the digital world safer. I have experience in C++ programming and love learning new technologies. My journey is driven by curiosity and a desire for knowledge.
