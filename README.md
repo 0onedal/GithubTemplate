@@ -1,4 +1,4 @@
-<img src="https://images.hdqwalls.com/download/i-see-you-ll-1600x900.jpg" width="50%" alt="Banner Image" style="border:5px solid red">
+<img src="https://images.hdqwalls.com/download/i-see-you-ll-1600x900.jpg" width="50%" alt="Banner Image" style="border-radius: 50%;">
 
 # 👋 Hello, I'm GHOST
 
