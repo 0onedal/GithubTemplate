@@ -24,7 +24,7 @@ Passionate about cybersecurity and eager to make the digital world a safer place
 - ![A+](https://img.shields.io/badge/A%2B%-40%25-yellow)
 - ![Linux+](https://img.shields.io/badge/Linux%2B-Soon-orange)
 - ![Network+](https://img.shields.io/badge/Network%2B-Soon-orange)
-- ![Digital Design](https://img.shields.io/badge/DigitalDesign-Soon-orange)
+- ![Digital Design](https://img.shields.io/badge/Digital_Design-Soon-orange)
 - ![Computer Architecture](https://img.shields.io/badge/Computer_Architecture-Soon-orange)
 ---
 
