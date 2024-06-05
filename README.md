@@ -11,14 +11,15 @@ Passionate about cybersecurity and eager to make the digital world a safer place
 ---
 
 ## 🛠️ Skills
-- **C++**: 50%
-- **Fast Typing**: 15 words in 13 seconds
+
+- ![C++](https://img.shields.io/badge/C%2B%2B-50%25-blue)
+- ![Fast Typing](https://img.shields.io/badge/Fast%20Typing-15%20words%20in%2013%20seconds-green)
 
 ---
 
 ## 📚 Courses I Studied
-- **C++**: 100%
-- **A+**: 40%
+- ![C++](https://img.shields.io/badge/C%2B%2B-100%25-brightgreen)
+- ![A+](https://img.shields.io/badge/A%2B-40%25-yellow)
 
 ---
 
