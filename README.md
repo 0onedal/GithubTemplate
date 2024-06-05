@@ -4,17 +4,6 @@
 
 ---
 
-```cpp
-// هذا مثال على شيفرة بلغة C++
-#include <iostream>
-using namespace std;
-
-int main() {
-    cout << "Hello, World!" << endl;
-    return 0;
-}
-
-```
 
 ## 🕵️‍♂️ About Me
 
@@ -45,13 +34,6 @@ I'm passionate about cybersecurity and making the digital world safer. I have ex
 - Working on various cybersecurity projects aimed at identifying and mitigating security vulnerabilities.
 - Developing tools to enhance system security and protect against cyber threats.
 
----
-
-## 🌐 Connect with Me
-
-[![Connect on Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2&radius=20)](https://www.facebook.com/0onedal) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&radius=20)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&radius=20)](https://twitter.com/yourprofile)
 
 ---
 
@@ -73,7 +55,7 @@ Feel free to explore my repositories to see the projects I'm working on and my c
 
 ### 🛠️ Tools & Technologies
 
-- **Penetration Testing Tools:** `Metasploit`, `Nmap`, `Burp` `Suite`
+- **Penetration Testing Tools:** `Metasploit`, `Nmap`, `Burp Suite`
 - **Programming Languages:** `C++`, `Python`
 - **Operating Systems:** `Linux`, `Windows`
 - **Version Control:** `Git`
