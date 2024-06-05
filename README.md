@@ -26,6 +26,13 @@ I'm passionate about cybersecurity and making the digital world safer. I have ex
 - ![Digital Design](https://img.shields.io/badge/Digital_Design-Soon-orange)
 - ![Computer Architecture](https://img.shields.io/badge/Computer_Architecture-Soon-orange)
 
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![A+](https://img.shields.io/badge/A%2B-FFA500?logo=CompTIA&logoColor=white)
+![Linux+](https://img.shields.io/badge/Linux%2B-FCC624?logo=Linux&logoColor=black)
+![Network+](https://img.shields.io/badge/Network%2B-FF6C37?logo=CompTIA&logoColor=white)
+![Digital Design](https://img.shields.io/badge/Digital_Design-FF6C37?logo=DigitalOcean&logoColor=white)
+![Computer Architecture](https://img.shields.io/badge/Computer_Architecture-FF6C37?logo=IBM&logoColor=white)
+
 ---
 
 ## 💼 Current Projects
