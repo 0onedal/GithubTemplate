@@ -42,7 +42,7 @@ I'm passionate about cybersecurity and making the digital world safer. I have ex
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 
 ---
-## 🔐Cyber Security 
+
 <img src="https://images.hdqwalls.com/download/bio-hackers-and-the-matrix-4k-6p-1600x900.jpg" width="50%" alt="Cybersecurity Image">
 
 ### 🚀 Mission
@@ -57,8 +57,8 @@ Feel free to explore my repositories to see the projects I'm working on and my c
 
 ### 🛠️ Tools & Technologies
 
-- **Penetration Testing Tools:** Metasploit, Nmap, Burp Suite
-- **Programming Languages:** C++, Python
+- **Penetration Testing Tools:** ![Metasploit](https://img.shields.io/badge/Metasploit-3DDC84?logo=Metasploit&logoColor=white), ![Nmap](https://img.shields.io/badge/Nmap-00599C?logo=nmap&logoColor=white)
+- **Programming Languages:** ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white), ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 - **Operating Systems:** Linux, Windows
 - **Version Control:** Git
 
