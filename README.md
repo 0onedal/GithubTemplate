@@ -1,8 +1,10 @@
+# 👋 Hello, I'm GHOST
+
 ![Header](./github-header-image.png)
 
 
 
-# 👋 Hello, I'm GHOST
+
 
 ---
 
