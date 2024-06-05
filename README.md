@@ -19,7 +19,7 @@ I'm passionate about cybersecurity and making the digital world safer. I have ex
 
 ---
 
-`ifconfig && iwconfig && airmon-ng`
+`$ ifconfig && iwconfig && airmon-ngg`
 
 ## 🛠️ Skills
 
