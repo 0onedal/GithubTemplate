@@ -19,6 +19,8 @@ I'm passionate about cybersecurity and making the digital world safer. I have ex
 
 ---
 
+`ifconfig && iwconfig && airmon-ng`
+
 ## 🛠️ Skills
 
 - ![C++](https://img.shields.io/badge/C%2B%2B-50%25-blue)
