@@ -1,5 +1,12 @@
+```cpp
+#include <iostream>
+using namespace std;
 
-### ```cpp cout << "Welcomed In My World"```
+int main() {
+    cout << "Hello, World!" << endl;
+    return 0;
+}
+```
 ![Header](./github-header-image.png)
 
 ---
