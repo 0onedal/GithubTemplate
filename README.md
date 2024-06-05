@@ -1,4 +1,4 @@
-<img src="https://your-image-link.png](https://img.freepik.com/free-vector/gradient-network-connection-background_23-2148865392.jpg?t=st=1717584364~exp=1717587964~hmac=d572d57bda0a5b34525b5ab9dc21362eb8ebc6a63ac92d33e10fdcd1fc5f049e&w=996" width="100%" alt="Banner Image">
+<img src="https://images.hdqwalls.com/download/i-see-you-ll-1600x900.jpg" width="100%" alt="Banner Image">
 
 # 👋 Hello, I'm GHOST
 
