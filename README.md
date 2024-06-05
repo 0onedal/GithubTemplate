@@ -26,13 +26,6 @@ I'm passionate about cybersecurity and making the digital world safer. I have ex
 - ![Digital Design](https://img.shields.io/badge/Digital_Design-Soon-orange)
 - ![Computer Architecture](https://img.shields.io/badge/Computer_Architecture-Soon-orange)
 
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![A+](https://img.shields.io/badge/A%2B-FFA500?logo=CompTIA&logoColor=white)
-![Linux+](https://img.shields.io/badge/Linux%2B-FCC624?logo=Linux&logoColor=black)
-![Network+](https://img.shields.io/badge/Network%2B-FF6C37?logo=CompTIA&logoColor=white)
-![Digital Design](https://img.shields.io/badge/Digital_Design-FF6C37?logo=DigitalOcean&logoColor=white)
-![Computer Architecture](https://img.shields.io/badge/Computer_Architecture-FF6C37?logo=IBM&logoColor=white)
-
 ---
 
 ## 💼 Current Projects
@@ -44,9 +37,9 @@ I'm passionate about cybersecurity and making the digital world safer. I have ex
 
 ## 🌐 Connect with Me
 
-[![Connect on Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/0onedal) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Connect on Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2)](https://www.facebook.com/0onedal) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/yourprofile)
 
 ---
 
