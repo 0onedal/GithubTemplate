@@ -14,7 +14,7 @@ Passionate about cybersecurity and eager to make the digital world a safer place
 
 ## 🛠️ Skills
 
-- ![C++](https://img.shields.io/badge/C%2B%2B-50%55-blue)
+- ![C++](https://img.shields.io/badge/C%2B%2B-50%25-blue)
 - ![Fast Typing](https://img.shields.io/badge/Fast%20Typing-15%20words%20in%2013%20seconds-red)
 
 ---
