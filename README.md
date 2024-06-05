@@ -14,6 +14,12 @@ int main() {
 ---
 
 
+| **اللغة**   | **مستوى الخبرة** | **تعليقات**       |
+|-------------|------------------|--------------------|
+| Python      | ![Advanced](https://img.shields.io/badge/Advanced-brightgreen) | استخدمتها في عدة مشاريع |
+| C++         | ![Intermediate](https://img.shields.io/badge/Intermediate-yellow) | معرفة أساسية       |
+| JavaScript  | ![Beginner](https://img.shields.io/badge/Beginner-red) | تعلمت أساسياتها   |
+
 ## 🕵️‍♂️ About Me
 
 I'm passionate about cybersecurity and making the digital world safer. I have experience in C++ programming and love learning new technologies. My journey is driven by curiosity and a desire for knowledge.
