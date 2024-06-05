@@ -1,4 +1,4 @@
-# 👋 Hello, I'm GHOST
+### 👋 Hello, I'm GHOST
 
 ![Header](./github-header-image.png)
 
