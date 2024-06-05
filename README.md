@@ -20,7 +20,7 @@ Passionate about cybersecurity and eager to make the digital world a safer place
 ---
 
 ## 📚 Courses I Studied
-- ![C++](https://img.shields.io/badge/C%2B%2B-100%25-brightgreen)
+- ![C++](https://img.shields.io/badge/C%2B%2B-Done-brightgreen)
 - ![A+](https://img.shields.io/badge/A%2B-40%25-yellow)
 - ![Network+](https://img.shields.io/badge/Network%2B-Soon-orange)
 - ![Digital Design](https://img.shields.io/badge/DigitalDesign-Soon-orange)
