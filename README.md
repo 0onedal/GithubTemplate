@@ -46,7 +46,7 @@ I'm passionate about cybersecurity and making the digital world safer. I have ex
 ## 🔐Cyber Security
 
 <div align="center">
-  <img src="https://images.hdqwalls.com/download/bio-hackers-and-the-matrix-4k-6p-1600x900.jpg" style="border-radius: 20px; max-width: 100%;" alt="Cybersecurity Image">
+  <img src="./FD830E17-2E2A-4A43-BF57-CEF65D97697A.jpeg " style="border-radius: 30px; max-width: 100%;" alt="Cybersecurity Image">
 </div>
 
 ### 🚀 Mission
