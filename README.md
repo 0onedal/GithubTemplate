@@ -1,5 +1,5 @@
-### 🌍 Welcome In My World
 
+### `cout << "Welcomed In My World"`
 ![Header](./github-header-image.png)
 
 ---
