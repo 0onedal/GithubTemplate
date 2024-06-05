@@ -36,7 +36,7 @@ Passionate about cybersecurity and eager to make the digital world a safer place
 
 ---
 
-![Cybersecurity Image]([https://your-cybersecurity-image-link.png](https://img.freepik.com/free-vector/gradient-network-connection-background_23-2148865392.jpg?t=st=1717584364~exp=1717587964~hmac=d572d57bda0a5b34525b5ab9dc21362eb8ebc6a63ac92d33e10fdcd1fc5f049e&w=996))
+![Cybersecurity Image](https://images.hdqwalls.com/download/bio-hackers-and-the-matrix-4k-6p-1600x900.jpg)
 
 ### 🚀 Mission
 My mission is to safeguard digital information and build robust defenses against cyber threats. I'm committed to continuous learning and staying ahead in the ever-evolving field of cybersecurity.
