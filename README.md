@@ -22,7 +22,7 @@ I'm passionate about cybersecurity and making the digital world safer. I have ex
 ## 🛠️ Skills
 
 - ![C++](https://img.shields.io/badge/C%2B%2B-50%25-blue)
-- ![Fast Typing](https://img.shields.io/badge/Fast%20Typing-15%20words%20in%2013%20seconds-red)
+- ![Fast Typing](https://img.shields.io/badge/Fast%20Typing-25%20words%20in%2030%20seconds-red)
 
 ---
 
