@@ -89,9 +89,14 @@ Feel free to explore my repositories to see the projects I'm working on and my c
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xnedal&layout=compact&theme=radical)
 
 ---
-### Html & Css Project
+### HTML & CSS Projects
 
-I'm currently working on HTML and CSS projects aimed at building responsive and visually appealing web applications. [Check out my projects](link-to-your-html-css-project).
+Explore my latest HTML and CSS projects below:
+
+- [Project 1](https://0xnedal.github.io/0oghost): html and css portfolio.
+- [Project 2](https://0xnedal.github.io/0xghost): html and css portfolio.
+  
+Feel free to click on the project links to learn more about each one.
 
 ---
 
