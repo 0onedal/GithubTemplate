@@ -57,7 +57,7 @@ I'm passionate about cybersecurity and making the digital world safer. I have ex
 ## 🔐Cyber Security
 
 <div align="center">
-  <img src="./FD830E17-2E2A-4A43-BF57-CEF65D97697A.jpeg" style="border-radius: 30px; max-width: 100%;" alt="Cybersecurity Image">
+  <img src="./FD830E17-2E2A-4A43-BF57-CEF65D97697A.jpeg" style="border-radius: 30px; max-width: 100%; border: 2px solid #5e69b1;" alt="Cybersecurity Image">
 </div>
 
 ### 🚀 Mission
