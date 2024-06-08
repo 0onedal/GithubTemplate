@@ -1,16 +1,9 @@
-```cpp
-#include <iostream>
-using namespace std;
+## 📊 Stats
 
-int main() {
-    cout << 
-    "Welcome,In My World!"
-    << endl;
-    return 0;
-}
-```
-<div align="center"> 
-    <img src="./github-header-image.png"> 
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xnedal&layout=compact&bg_color=26272d&border_color=5e69b1&title_color=ffff&text_color=ffff&langs_count=10" style="border-radius: 15px; max-width: 80%; border: 2px solid #5e69b1;" alt="Top Langs">
 </div>
 
 ---
@@ -23,11 +16,6 @@ I'm passionate about cybersecurity and making the digital world safer. I have ex
 
 ## 🛠️ Skills
 
-- ![C++](https://img.shields.io/badge/C%2B%2B-50%25-blue)
-- ![Html](https://img.shields.io/badge/Html-50%25-blue)
-- ![Css](https://img.shields.io/badge/Css-50%25-blue)
-- ![Fast Typing](https://img.shields.io/badge/Fast%20Typing-25%20words%20in%2030%20seconds-red)
-
 ![HTML](https://img.shields.io/badge/HTML-5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-11-00599C?logo=c%2B%2B&logoColor=white)
@@ -37,12 +25,12 @@ I'm passionate about cybersecurity and making the digital world safer. I have ex
 
 ## 📚 Courses I Studied
 
-- ![C++](https://img.shields.io/badge/C%2B%2B-Done-brightgreen)
-- ![A+](https://img.shields.io/badge/A%2B-Soon-orange)
-- ![Linux+](https://img.shields.io/badge/Linux%2B-Soon-orange)
-- ![Network+](https://img.shields.io/badge/Network%2B-Soon-orange)
-- ![Digital Design](https://img.shields.io/badge/Digital_Design-Soon-orange)
-- ![Computer Architecture](https://img.shields.io/badge/Computer_Architecture-Soon-orange)
+![C++](https://img.shields.io/badge/C%2B%2B-Done-brightgreen)
+![A+](https://img.shields.io/badge/A%2B-Soon-orange)
+![Linux+](https://img.shields.io/badge/Linux%2B-Soon-orange)
+![Network+](https://img.shields.io/badge/Network%2B-Soon-orange)
+![Digital Design](https://img.shields.io/badge/Digital_Design-Soon-orange)
+![Computer Architecture](https://img.shields.io/badge/Computer_Architecture-Soon-orange)
 
 ---
 
@@ -51,10 +39,9 @@ I'm passionate about cybersecurity and making the digital world safer. I have ex
 - Working on various cybersecurity projects aimed at identifying and mitigating security vulnerabilities.
 - Developing tools to enhance system security and protect against cyber threats.
 
-
 ---
 
-## 🔐Cyber Security
+## 🔐 Cyber Security
 
 <div align="center">
   <img src="./FD830E17-2E2A-4A43-BF57-CEF65D97697A.jpeg" style="border-radius: 30px; max-width: 100%; border: 2px solid #5e69b1;" alt="Cybersecurity Image">
@@ -88,7 +75,11 @@ Feel free to explore my repositories to see the projects I'm working on and my c
 
 ### 📊 Stats
 
-<a href="https://stats.hyochan.dev/en/stats/0xnedal"><img src="https://stats.hyochan.dev/api/github-stats?login=0xnedal" width="600" /></a>
+<div align="center">
+  <a href="https://stats.hyochan.dev/en/stats/0xnedal">
+    <img src="https://stats.hyochan.dev/api/github-stats?login=0xnedal" width="600" alt="GitHub Stats">
+  </a>
+</div>
 
 ---
 
@@ -96,14 +87,14 @@ Feel free to explore my repositories to see the projects I'm working on and my c
 
 Explore my latest HTML and CSS projects below:
 
-- [Project 1](https://0xnedal.github.io/0oghost): html and css portfolio.
-- [Project 2](https://0xnedal.github.io/0xghost): html and css portfolio.
-  
+- [Project 1](https://0xnedal.github.io/0oghost): HTML and CSS portfolio.
+- [Project 2](https://0xnedal.github.io/0xghost): HTML and CSS portfolio.
+
 Feel free to click on the project links to learn more about each one.
 
 ---
 
-### 📫 How to reach me
+### 📫 How to Reach Me
 
 - Email: your-email@example.com
 
