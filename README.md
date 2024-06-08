@@ -9,7 +9,9 @@ int main() {
     return 0;
 }
 ```
-![Header](./github-header-image.png)
+<div align="center"> 
+    ![Header](./github-header-image.png)
+</div>
 
 ---
 
