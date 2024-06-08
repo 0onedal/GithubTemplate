@@ -88,6 +88,8 @@ Feel free to explore my repositories to see the projects I'm working on and my c
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xnedal&layout=compact&theme=radical)
 
+[My GitHub Stats](https://stats.dooboo.io/en/stats/0xnedal)
+
 ---
 ### 🎨 HTML & CSS Projects
 Explore my latest HTML and CSS projects below:
