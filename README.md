@@ -84,7 +84,9 @@ Feel free to explore my repositories to see the projects I'm working on and my c
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xnedal&show_icons=true&theme=radical)
+---
+
+### 📊 Stats
 
 <a href="https://stats.hyochan.dev/en/stats/0xnedal"><img src="https://stats.hyochan.dev/api/github-stats?login=0xnedal" width="600" /></a>
 
