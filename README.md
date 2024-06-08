@@ -89,7 +89,7 @@ Feel free to explore my repositories to see the projects I'm working on and my c
 <a href="https://stats.hyochan.dev/en/stats/0xnedal"><img src="https://stats.hyochan.dev/api/github-stats?login=0xnedal" width="600" /></a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?0xnedal=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io&bg_color=26272c&border_color=745da1&title_color=c9d1d9&text_color=c9d1d9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 ---
 
