@@ -10,7 +10,7 @@ int main() {
 }
 ```
 <div align="center"> 
-    ![Header](./github-header-image.png)
+    <img src="./github-header-image.png"> 
 </div>
 
 ---
