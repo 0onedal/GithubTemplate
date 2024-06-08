@@ -59,11 +59,11 @@ I'm passionate about cybersecurity and making the digital world safer. I have ex
 </div>
 
 ### 🚀 Mission
--
+
 My mission is to safeguard digital information and build robust defenses against cyber threats. I'm committed to continuous learning and staying ahead in the ever-evolving field of cybersecurity.
 
 ### 🔍 Explore My Work
--
+
 Feel free to explore my repositories to see the projects I'm working on and my contributions to the field of cybersecurity.
 
 ---
@@ -87,13 +87,13 @@ Feel free to explore my repositories to see the projects I'm working on and my c
 ---
 
 ### 📊 Stats
---
+
 <a href="https://stats.hyochan.dev/en/stats/0xnedal"><img src="https://stats.hyochan.dev/api/github-stats?login=0xnedal" width="600" /></a>
 
 ---
 
 ### 🎨 HTML & CSS Projects
--
+
 Explore my latest HTML and CSS projects below:
 
 - [Project 1](https://0xnedal.github.io/0oghost): html and css portfolio.
@@ -104,7 +104,7 @@ Feel free to click on the project links to learn more about each one.
 ---
 
 ### 📫 How to reach me
--
+
 - Email: your-email@example.com
 
 ---
