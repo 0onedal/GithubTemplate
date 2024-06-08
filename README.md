@@ -66,8 +66,6 @@ My mission is to safeguard digital information and build robust defenses against
 
 Feel free to explore my repositories to see the projects I'm working on and my contributions to the field of cybersecurity.
 
----
-
 ### 🛠️ Tools & Technologies
 
 - **Penetration Testing Tools:** `Metasploit`, `Nmap`, `Burp Suite`
