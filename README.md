@@ -91,6 +91,7 @@ Feel free to explore my repositories to see the projects I'm working on and my c
 <a href="https://stats.hyochan.dev/en/stats/0xnedal"><img src="https://stats.hyochan.dev/api/github-stats?login=0xnedal" width="600" /></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xnedal&layout=compact&bg_color=26272d&border_color=5e69b1&title_color=ffff&text_color=ffff&langs_count=10)
+-
 
 
 ---
