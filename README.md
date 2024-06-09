@@ -34,6 +34,10 @@ I'm passionate about cybersecurity and making the digital world safer. I have ex
 ![Fast Typing](https://img.shields.io/badge/Fast_Typing-⌨-brightgreen)
 ---
 
+### 🧩 Problem Solving
+
+![Codewars](https://github.r2v.ch/codewars?user=0xnedal&theme=gradient)
+
 ## 📚 Courses I Studied
 
 - ![C++](https://img.shields.io/badge/C++-Done-00599C?logo=c%2B%2B&logoColor=white)
