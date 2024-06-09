@@ -95,19 +95,15 @@ Feel free to explore my repositories to see the projects I'm working on and my c
 
 ---
 
+
 ### 🎨 HTML & CSS Projects
 
 Explore my latest HTML and CSS projects below:
 
-<a href="https://0xnedal.github.io/0oghost" style="text-decoration: none;">
-  <button>Project 1</button>
-</a>: html and css portfolio.
-<br>
-<a href="https://0xnedal.github.io/0xghost" style="text-decoration: none;">
-  <button>Project 2</button>
-</a>: html and css portfolio.
+- [Project 1](https://0xnedal.github.io/0oghost): html and css portfolio.
+- [Project 2](https://0xnedal.github.io/0xghost): html and css portfolio.
   
-Feel free to click on the project buttons to learn more about each one.
+Feel free to click on the project links to learn more about each one.
 
 ---
 
