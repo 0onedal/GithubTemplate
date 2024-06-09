@@ -37,12 +37,12 @@ I'm passionate about cybersecurity and making the digital world safer. I have ex
 
 ## 📚 Courses I Studied
 
-- ![C++](https://img.shields.io/badge/C%2B%2B-Done-brightgreen) C++
-- ![A+](https://img.shields.io/badge/CompTIA_A%2B-Soon-orange) CompTIA A+
-- ![Linux+](https://img.shields.io/badge/CompTIA_Linux%2B-Soon-orange) CompTIA Linux+
-- ![Network+](https://img.shields.io/badge/CompTIA_Network%2B-Soon-orange) CompTIA Network+
-- ![Digital Design](https://img.shields.io/badge/Digital_Logic_Design-Soon-orange) Digital Logic Design
-- ![Computer Architecture](https://img.shields.io/badge/Computer_Architecture-Soon-orange) Computer Architecture
+- ![C++](https://img.shields.io/badge/C%2B%2B-Done-brightgreen)
+- ![A+](https://img.shields.io/badge/CompTIA_A%2B-Soon-orange)
+- ![Linux+](https://img.shields.io/badge/CompTIA_Linux%2B-Soon-orange)
+- ![Network+](https://img.shields.io/badge/CompTIA_Network%2B-Soon-orange)
+- ![Digital Design](https://img.shields.io/badge/Digital_Logic_Design-Soon-orange)
+- ![Computer Architecture](https://img.shields.io/badge/Computer_Architecture-Soon-orange)
 
 ---
 
