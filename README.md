@@ -37,6 +37,7 @@ I'm passionate about cybersecurity and making the digital world safer. I have ex
 ### 🧩 Problem Solving
 
 ![Codewars](https://github.r2v.ch/codewars?user=0xnedal&theme=gradient)
+![CodeForces](https://raw.githubusercontent.com/your-github-0xnedal/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 
 ## 📚 Courses I Studied
 
