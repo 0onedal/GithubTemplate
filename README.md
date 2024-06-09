@@ -23,13 +23,15 @@ I'm passionate about cybersecurity and making the digital world safer. I have ex
 
 ## 🛠️ Skills
 
-- ![C++](https://img.shields.io/badge/C++-Done-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
-- ![A+](https://img.shields.io/badge/CompTIA_A%2B-Soon-DA3C2E?logo=comptia&logoColor=white&style=flat-square)
-- ![Linux+](https://img.shields.io/badge/CompTIA_Linux%2B-Soon-2C8EBB?logo=linux&logoColor=white&style=flat-square)
-- ![Network+](https://img.shields.io/badge/CompTIA_Network%2B-Soon-007396?logo=network&logoColor=white&style=flat-square)
-- ![Digital Design](https://img.shields.io/badge/Digital_Logic_Design-Soon-orange?logo=logic-design&logoColor=white&style=flat-square)
-- ![Computer Architecture](https://img.shields.io/badge/Computer_Architecture-Soon-orange?logo=computer&logoColor=white&style=flat-square)
+- ![C++](https://img.shields.io/badge/C%2B%2B-50%25-blue)
+- ![Html](https://img.shields.io/badge/Html-50%25-blue)
+- ![Css](https://img.shields.io/badge/Css-50%25-blue)
+- ![Fast Typing](https://img.shields.io/badge/Fast%20Typing-25%20words%20in%2030%20seconds-red)
 
+![HTML](https://img.shields.io/badge/HTML-5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-11-00599C?logo=c%2B%2B&logoColor=white)
+![Fast Typing](https://img.shields.io/badge/Fast_Typing-⌨-brightgreen)
 ---
 
 ## 📚 Courses I Studied
