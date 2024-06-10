@@ -45,7 +45,7 @@ I'm passionate about cybersecurity and making the digital world safer. I have ex
 
 ## 📚 Courses I Studied
 
-- ![C++](https://img.shields.io/badge/C++-Done-00599C?logo=c%2B%2B&logoColor=white)
+- [x] ![C++](https://img.shields.io/badge/C++-Done-00599C?logo=c%2B%2B&logoColor=white)
 - ![A+](https://img.shields.io/badge/CompTIA_A%2B-Soon-DA3C2E?logo=comptia&logoColor=white)
 - ![Linux+](https://img.shields.io/badge/CompTIA_Linux%2B-Soon-2C8EBB?logo=linux&logoColor=white)
 - ![Network+](https://img.shields.io/badge/CompTIA_Network%2B-Soon-007396?logo=network&logoColor=white)
