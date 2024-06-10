@@ -46,11 +46,11 @@ I'm passionate about cybersecurity and making the digital world safer. I have ex
 ## 📚 Courses I Studied
 
 - [x] ![C++](https://img.shields.io/badge/C++-Done-00599C?logo=c%2B%2B&logoColor=white)
-- ![A+](https://img.shields.io/badge/CompTIA_A%2B-Soon-DA3C2E?logo=comptia&logoColor=white)
-- ![Linux+](https://img.shields.io/badge/CompTIA_Linux%2B-Soon-2C8EBB?logo=linux&logoColor=white)
-- ![Network+](https://img.shields.io/badge/CompTIA_Network%2B-Soon-007396?logo=network&logoColor=white)
-- ![Digital Design](https://img.shields.io/badge/Digital_Logic_Design-Soon-orange?logo=logic-design&logoColor=white)
-- ![Computer Architecture](https://img.shields.io/badge/Computer_Architecture-Soon-orange?logo=computer&logoColor=white)
+- [x] ![A+](https://img.shields.io/badge/CompTIA_A%2B-Now-DA3C2E?logo=comptia&logoColor=white)
+- [ ] ![Linux+](https://img.shields.io/badge/CompTIA_Linux%2B-Soon-2C8EBB?logo=linux&logoColor=white)
+- [ ] ![Network+](https://img.shields.io/badge/CompTIA_Network%2B-Soon-007396?logo=network&logoColor=white)
+- [ ] ![Digital Design](https://img.shields.io/badge/Digital_Logic_Design-Soon-orange?logo=logic-design&logoColor=white)
+- [x] ![Computer Architecture](https://img.shields.io/badge/Computer_Architecture-Now-orange?logo=computer&logoColor=white)
 
 ---
 
