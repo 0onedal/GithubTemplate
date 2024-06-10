@@ -1,4 +1,5 @@
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=0xnedal&show_icons=true&theme=radical&hide=contribs,prs)
+
+
 ```cpp
 #include <iostream>
 using namespace std;
