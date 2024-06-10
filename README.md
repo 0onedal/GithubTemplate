@@ -38,7 +38,7 @@ I'm passionate about cybersecurity and making the digital world safer. I have ex
 ### 🧩 Problem Solving
 
 ![](https://raw.githubusercontent.com/0xnedal/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg)
+![](https://raw.githubusercontent.com/0xnedal/cf-stats/main/output/light_card.svg)
 
 
 
