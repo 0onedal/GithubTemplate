@@ -1,7 +1,7 @@
 
 
 ```cpp
-    cout << " Welcome,In My World! " << endl;
+    " Welcome,In My World! " 
 ```
 <div align="center"> 
     <img src="./github-header-image.png"> 
