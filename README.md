@@ -102,8 +102,12 @@ Feel free to explore my repositories to see the projects I'm working on and my c
   </a>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xnedal&langs_count=8&theme=shadow_red&card_width=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xnedal&langs_count=8&theme=shadow_red&card_width=500)
 
+<div align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=0xnedal&langs_count=8&theme=shadow_red&card_width=500">
+  </a>
+</div>
 ---
 
 
