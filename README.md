@@ -101,8 +101,9 @@ Feel free to explore my repositories to see the projects I'm working on and my c
     <img src="https://stats.hyochan.dev/api/github-stats?login=0xnedal" width="600" alt="GitHub Stats">
   </a>
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xnedal&langs_count=8&theme=dark)
+<div align="center">
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xnedal&langs_count=8&theme=shadow_green)
+</div>
 ---
 
 
