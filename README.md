@@ -1,15 +1,7 @@
 
 
 ```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-    cout << 
-    "Welcome,In My World!"
-    << endl;
-    return 0;
-}
+    cout << " Welcome,In My World! " << endl;
 ```
 <div align="center"> 
     <img src="./github-header-image.png"> 
