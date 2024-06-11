@@ -38,7 +38,7 @@ I'm passionate about cybersecurity and making the digital world safer. I have ex
 
 ### 🧩 Problem Solving
 
-![Codewars](https://github.r2v.ch/codewars?user=0xnedal&name=true&top_languages=true&animation=false&stroke=%23b362ff&theme=gradient)
+![Codewars](https://github.r2v.ch/codewars?user=0xnedal&name=true&top_languages=true&animation=true&stroke=%23b362ff&theme=gradient)
 
 
 ---
