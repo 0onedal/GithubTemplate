@@ -103,7 +103,7 @@ Feel free to explore my repositories to see the projects I'm working on and my c
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xnedal&langs_count=8&theme=github_dark_dimmed&card_width=600&border_radius=10.5&border_color=597bc3&text_color=FFFFFF" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xnedal&langs_count=8&theme=github_dark_dimmed&card_width=600&border_radius=10.5&border_color=597bc3&text_color=FFFFFF&text_bold=true&ring_color=000" alt="Top Langs">
 </div>
 
 ---
