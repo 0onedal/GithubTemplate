@@ -96,6 +96,7 @@ Feel free to explore my repositories to see the projects I'm working on and my c
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xnedal&langs_count=8&theme=github_dark_dimmed&card_width=400&border_radius=10.5&border_color=597bc3&text_color=FFFFFF" alt="Top Langs" width="400">
 </div>
+
 ---
 
 
