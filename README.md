@@ -88,12 +88,11 @@ Feel free to explore my repositories to see the projects I'm working on and my c
 
 ### 📊 Stats
 
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 20px; flex-wrap: wrap;">
-   <img src="https://github.r2v.ch/codewars?user=0xnedal&name=true&top_languages=true&animation=true&stroke=orange&theme=gradient" alt="Codewars" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xnedal&langs_count=8&theme=github_dark_dimmed&card_width=400&border_radius=10.5&border_color=597bc3&text_color=FFFFFF" alt="Top Langs" width="400">
+<div align="center">
    <a href="https://stats.hyochan.dev/en/stats/0xnedal">
     <img src="https://stats.hyochan.dev/api/github-stats?login=0xnedal" width="400" alt="GitHub Stats">
   </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xnedal&langs_count=8&theme=github_dark_dimmed&card_width=400&border_radius=10.5&border_color=597bc3&text_color=FFFFFF" alt="Top Langs" width="400">
 </div>
 
 ---
