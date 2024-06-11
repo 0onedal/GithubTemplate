@@ -38,7 +38,7 @@ I'm passionate about cybersecurity and making the digital world safer. I have ex
 
 ### 🧩 Problem Solving
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=0xnedal)
+![Codewars](https://github.r2v.ch/codewars?user=0xnedal&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 
 
 ---
