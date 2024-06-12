@@ -113,4 +113,4 @@ Feel free to click on the project links to learn more about each one.
 ---
 
 > [!NOTE]\
-> **Thank You** *for visiting my profile! Let's make the digital world safer together.*
+> **Thank You for visiting my profile! Let's make the digital world safer together.**
