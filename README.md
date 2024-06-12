@@ -112,5 +112,5 @@ Feel free to click on the project links to learn more about each one.
 
 ---
 
-> [!Thank you]\ 
+> [ !Thank you]\ 
 > *for visiting my profile! Let's make the digital world safer together.*
