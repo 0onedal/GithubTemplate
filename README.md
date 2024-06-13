@@ -1,6 +1,7 @@
 
 
-> [ !Warning]\
+> [!watning]\
+> Palindrome Is a Number That Reads The Same From Right To Left.
 
 
 |---------------|
