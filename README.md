@@ -1,9 +1,4 @@
 
-
-> [!warning]\
-> --
-| هذا هو نص التحذير. يرجى التأكد من اتباع التعليمات بدقة لتجنب أي مشاكل محتملة. |
-
 <div align="center"> 
     <img src="./github-header-image.png"> 
 </div>
