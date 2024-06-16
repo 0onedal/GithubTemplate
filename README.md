@@ -99,8 +99,8 @@ Feel free to explore my repositories to see the projects I'm working on and my c
 
 Explore my latest HTML and CSS projects below:
 
-- [Project 1](https://0xnedal.github.io/0oG170): html and css portfolio.
-- [Project 2](https://0xnedal.github.io/0xghost): html and css portfolio.
+- [Project 1](https://0oghost.github.io/0oG170/): html and css portfolio.
+- [Project 2](https://0oghost.github.io/0xghost/): html and css portfolio.
   
 Feel free to click on the project links to learn more about each one.
 
