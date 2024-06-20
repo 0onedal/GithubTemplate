@@ -30,11 +30,6 @@ I'm passionate about cyber security and making the digital world safer. I have e
 ![Fast Typing](https://img.shields.io/badge/Fast_Typing-⌨-brightgreen)
 ---
 
-### 🧩 Problem Solving
-
-![Codewars](https://github.r2v.ch/codewars?user=0xnedal&name=true&top_languages=true&stroke=orange&theme=gradient)
-
----
 
 ## 📚 Courses I Studied
 
@@ -113,11 +108,13 @@ Feel free to click on the project links to learn more about each one.
 
 
 
-### 🏆 GitHub Trophies
+#### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=0oGhost&theme=shadow_blue&no-frame=true&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+#### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=0oGhost&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+
+---
 
 ### ✍️ Random Dev Quote
 <div align="center">
