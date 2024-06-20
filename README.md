@@ -5,7 +5,7 @@
 </div>
 
 <div align="center"> 
-    <img src="./IMG_6384.jpeg"> 
+    <img src="./Banner.png"> 
 </div>
 
 ---
