@@ -91,11 +91,9 @@ Feel free to explore my repositories to see the projects I'm working on and my c
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-
 ---
-
 ### 🎨 HTML & CSS Projects
----
+
 Explore my latest HTML and CSS projects below:
 
 - [Project 1](https://0oghost.github.io/0oG170/): html and css portfolio.
