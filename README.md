@@ -1,4 +1,7 @@
-[![](https://visitcount.itsvg.in/api?id=0oGhost&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+    [![](https://visitcount.itsvg.in/api?id=0oGhost&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
+
 
 <div align="center"> 
     <img src="./github-header-image.png"> 
