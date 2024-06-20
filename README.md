@@ -114,9 +114,7 @@ Feel free to click on the project links to learn more about each one.
 
 ### 📫 How to reach me
 
- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/0onedal)
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/0onedal)
-[![X Follow](https://img.shields.io/twitter/follow/0oGhost?style=for-the-badge&logo=x&logoColor=white&style=for-the-badge)](https://www.x.com/0oGhost)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/0onedal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0onedal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/0onedal) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@0onedal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0onedal) 
 
 ---
 
