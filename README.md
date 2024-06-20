@@ -94,7 +94,6 @@ Feel free to explore my repositories to see the projects I'm working on and my c
 
 ---
 
-
 ### 🎨 HTML & CSS Projects
 
 Explore my latest HTML and CSS projects below:
