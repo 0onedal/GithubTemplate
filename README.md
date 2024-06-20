@@ -19,12 +19,10 @@ I'm passionate about cyber security and making the digital world safer. I have e
 
 ## 🛠️ Skills
 
-# قائمة المهارات
-
-- [x] <img src="https://img.shields.io/badge/C%2B%2B-60%25-blue" alt="C++" style="vertical-align: middle;">
-- [x] <img src="https://img.shields.io/badge/HTML-50%25-blue" alt="Html" style="vertical-align: middle;">
-- [x] <img src="https://img.shields.io/badge/CSS3-50%25-blue" alt="Css" style="vertical-align: middle;">
-- [x] <img src="https://img.shields.io/badge/Fast%20Typing-25%20words%20in%2030%20seconds-red" alt="Fast Typing" style="vertical-align: middle;">
+- [x] <span style="display: inline-flex; align-items: center;"><img src="https://img.shields.io/badge/C%2B%2B-60%25-blue" alt="C++" style="margin-left: 5px;"></span>
+- [x] <span style="display: inline-flex; align-items: center;"><img src="https://img.shields.io/badge/HTML-50%25-blue" alt="Html" style="margin-left: 5px;"></span>
+- [x] <span style="display: inline-flex; align-items: center;"><img src="https://img.shields.io/badge/CSS3-50%25-blue" alt="Css" style="margin-left: 5px;"></span>
+- [x] <span style="display: inline-flex; align-items: center;"><img src="https://img.shields.io/badge/Fast%20Typing-25%20words%20in%2030%20seconds-red" alt="Fast Typing" style="margin-left: 5px;"></span>
 
 ![HTML](https://img.shields.io/badge/HTML-5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3&logoColor=white)
