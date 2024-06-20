@@ -90,10 +90,13 @@ Feel free to explore my repositories to see the projects I'm working on and my c
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+
 ---
 
 
 ### 🎨 HTML & CSS Projects
+
 
 Explore my latest HTML and CSS projects below:
 
