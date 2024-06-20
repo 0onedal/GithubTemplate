@@ -19,10 +19,12 @@ I'm passionate about cyber security and making the digital world safer. I have e
 
 ## 🛠️ Skills
 
-- [x] ![C++](https://img.shields.io/badge/C%2B%2B-60%25-blue) - [x]
-- [x] ![Html](https://img.shields.io/badge/HTML-50%25-blue)
-- [x] ![Css](https://img.shields.io/badge/CSS3-50%25-blue)
-- [x] ![Fast Typing](https://img.shields.io/badge/Fast%20Typing-25%20words%20in%2030%20seconds-red)
+# قائمة المهارات
+
+- [x] <img src="https://img.shields.io/badge/C%2B%2B-60%25-blue" alt="C++" style="vertical-align: middle;">
+- [x] <img src="https://img.shields.io/badge/HTML-50%25-blue" alt="Html" style="vertical-align: middle;">
+- [x] <img src="https://img.shields.io/badge/CSS3-50%25-blue" alt="Css" style="vertical-align: middle;">
+- [x] <img src="https://img.shields.io/badge/Fast%20Typing-25%20words%20in%2030%20seconds-red" alt="Fast Typing" style="vertical-align: middle;">
 
 ![HTML](https://img.shields.io/badge/HTML-5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3&logoColor=white)
