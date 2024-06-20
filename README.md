@@ -87,6 +87,18 @@ Feel free to explore my repositories to see the projects I'm working on and my c
 
 ---
 
+
+### 🎨 HTML & CSS Projects
+
+Explore my latest HTML and CSS projects below:
+
+- [Project 1](https://0oghost.github.io/0oG170/): html and css portfolio.
+- [Project 2](https://0oghost.github.io/0xghost/): html and css portfolio.
+  
+Feel free to click on the project links to learn more about each one.
+
+
+---
 ### 📊 Stats
 
 <div align="center">
@@ -97,18 +109,6 @@ Feel free to explore my repositories to see the projects I'm working on and my c
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0oGhost&langs_count=8&theme=github_dark_dimmed&card_width=400&border_radius=10.5&border_color=597bc3&text_color=FFFFFF" alt="Top Langs" width="400">
 </div>
-
----
-
-
-### 🎨 HTML & CSS Projects
-
-Explore my latest HTML and CSS projects below:
-
-- [Project 1](https://0oghost.github.io/0oG170/): html and css portfolio.
-- [Project 2](https://0oghost.github.io/0xghost/): html and css portfolio.
-  
-Feel free to click on the project links to learn more about each one.
 
 ---
 
