@@ -80,15 +80,14 @@ Feel free to explore my repositories to see the projects I'm working on and my c
 - **Operating Systems:** `Linux`, `Windows`
 - **Version Control:** `Git`
 
-![Metasploit](https://img.shields.io/badge/Metasploit-3DDC84?style=for-the-badge&logo=Metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00599C?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=Burp%20Suite&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+![Metasploit](https://img.shields.io/badge/Metasploit-3DDC84?logo=Metasploit&logoColor=white) 
+![Nmap](https://img.shields.io/badge/Nmap-00599C?logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C37?logo=Burp%20Suite&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ---
 
 
