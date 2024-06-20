@@ -38,6 +38,8 @@ I'm passionate about cyber security and making the digital world safer. I have e
 
 ##### Other Skills
 ![Fast Typing](https://img.shields.io/badge/Fast%20Typing-25%20words%20in%2030%20seconds-red?style=for-the-badge)
+
+
 ---
 
 
