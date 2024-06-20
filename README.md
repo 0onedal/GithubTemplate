@@ -99,13 +99,14 @@ Feel free to click on the project links to learn more about each one.
 
 
 ---
-### 📊 Stats
+### 📊 Github Stats
 
 <div align="center">
    <a href="https://stats.hyochan.dev/en/stats/0xnedal">
       <img src="https://stats.hyochan.dev/api/github-stats?login=0xnedal" width="400" alt="GitHub Stats">
    </a>
 </div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0oGhost&langs_count=8&theme=github_dark_dimmed&card_width=400&border_radius=10.5&border_color=597bc3&text_color=FFFFFF" alt="Top Langs" width="400">
 </div>
@@ -116,7 +117,12 @@ Feel free to click on the project links to learn more about each one.
 ![](https://github-profile-trophy.vercel.app/?username=0oGhost&theme=shadow_blue&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
+<div align="center">
+  
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+
+</div>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=0oGhost&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
