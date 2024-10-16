@@ -1,6 +1,6 @@
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=0oGhost&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Github-Template&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -106,13 +106,13 @@ Feel free to click on the project links to learn more about each one.
 ## 📊 Github Stats
 
 <div align="center">
-   <a href="https://stats.hyochan.dev/en/stats/0oghost">
-      <img src="https://stats.hyochan.dev/api/github-stats?login=0xnedal" width="400" alt="GitHub Stats">
+   <a href="https://stats.hyochan.dev/en/stats/Github-Template">
+      <img src="https://stats.hyochan.dev/api/github-stats?login=Github-Template" width="400" alt="GitHub Stats">
    </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0oGhost&langs_count=8&theme=github_dark_dimmed&card_width=400&border_radius=10.5&border_color=597bc3&text_color=FFFFFF" alt="Top Langs" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Github-Template&langs_count=8&theme=github_dark_dimmed&card_width=400&border_radius=10.5&border_color=597bc3&text_color=FFFFFF" alt="Top Langs" width="400">
 </div>
 
 
