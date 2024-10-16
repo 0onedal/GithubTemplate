@@ -106,8 +106,8 @@ Feel free to click on the project links to learn more about each one.
 ## 📊 Github Stats
 
 <div align="center">
-   <a href="https://stats.hyochan.dev/en/stats/Github-Template">
-      <img src="https://stats.hyochan.dev/api/github-stats?login=Github-Template" width="400" alt="GitHub Stats">
+   <a href="https://stats.hyochan.dev/en/stats/0onedal">
+      <img src="https://stats.hyochan.dev/api/github-stats?login=0onedal" width="400" alt="GitHub Stats">
    </a>
 </div>
 
