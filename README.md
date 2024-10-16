@@ -118,10 +118,10 @@ Feel free to click on the project links to learn more about each one.
 
 
 #### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=0oGhost&theme=shadow_blue&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Github-Template&theme=shadow_blue&no-frame=true&no-bg=true&margin-w=4)
 
 #### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=0oGhost&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Github-Template&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
 
